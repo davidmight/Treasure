@@ -1,10 +1,3 @@
-/*CS2014 Lab12
- 
- Name: David Byrne
- Student ID: 09068783
- 
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
