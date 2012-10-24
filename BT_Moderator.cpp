@@ -1,10 +1,3 @@
-/*CS2014 Lab12
- 
- Name: David Byrne
- Student ID: 09068783
- 
-*/
-
 #include "BT_Moderator.h"
 
 BT_Moderator :: BT_Moderator(){
